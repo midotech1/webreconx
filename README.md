@@ -33,7 +33,7 @@ chmod +x install.sh
 ## ⚙️ Usage
 
 ```bash
-python3 webreconx.py -u https://target.com
+sudo ./webreconx.sh -u https://target.com/
 ```
 
 ### Common Options:
