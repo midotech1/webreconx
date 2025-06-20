@@ -224,3 +224,4 @@ function main_menu() {
 
 check_install
 main_menu
+sudo mv webreconx /usr/local/bin/
