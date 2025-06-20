@@ -20,8 +20,8 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/midotech1/WebreconX.git
-cd WebreconX
+git clone https://github.com/midotech1/webreconx.git
+cd webreconx
 chmod +x install.sh
 ./install.sh
 ```
@@ -72,7 +72,5 @@ Results are saved in the `/results/` directory:
 
 ---
 
-## 🌐 License
 
-This project is licensed under the MIT License. See `LICENSE` for details.
 
